@@ -16,7 +16,7 @@ body{
 header{
     height: 400px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-    url(/assets/img/3de23dc809b1a20191a57e504bf41c599dbaca80.png);
+    url(../img/3de23dc809b1a20191a57e504bf41c599dbaca80.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
